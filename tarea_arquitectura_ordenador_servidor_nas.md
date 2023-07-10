@@ -33,12 +33,12 @@ Un servidor NAS doméstico es un dispositivo de almacenamiento conectado a una r
 
  ## UPS:
 
-    -Back-UPS APC BX700UI 700VA 230 V [ups](https://www.ebay.com/itm/185910112452).
+    -Back-UPS APC BX700UI 700VA 230 V [UPS](https://www.ebay.com/itm/185910112452).
     -Precio: 192.35 USD.
   
  ## Ethernet cable:
 
-    -Ethernet cable – 15m – Internet, patch & network cable with break-proof design for maximum UK internet speeds [cable](https://www.amazon.co.uk/KabelDirekt-Connector-High-Speed-Corrosion-Resistant-Black/dp/B018M7BC4K/ref=sr_1_1_sspa).
+    -Ethernet cable – 15m – Internet, patch & network cable with break-proof design for maximum UK internet speeds [Ethernetcable](https://www.amazon.co.uk/KabelDirekt-Connector-High-Speed-Corrosion-Resistant-Black/dp/B018M7BC4K/ref=sr_1_1_sspa).
     -Precio: 10,23 USD.
  
     
