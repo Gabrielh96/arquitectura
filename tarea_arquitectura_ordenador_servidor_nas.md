@@ -28,17 +28,17 @@ Un servidor NAS doméstico es un dispositivo de almacenamiento conectado a una r
 
  ## Storage:
    
-   -9 Seagate IronWolf, 4TB, NAS, Internal Hard Drive [storage](https://www.amazon.co.uk/Seagate-IronWolf-Internal-Attached-ST4000VNZ06/dp/B09NHV3CK9/ref=sr_1_1_sspa?)
+   -9 Seagate IronWolf, 4TB, NAS, Internal Hard Drive [storage](https://www.amazon.co.uk/Seagate-IronWolf-Internal-Attached-ST4000VNZ06/dp/B09NHV3CK9/ref=sr_1_1_sspa?crid=21A16OUFQDG39&keywords=4tb+sata&qid=1689015551&sprefix=4tb+sata%2Caps%2C532&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1).
    -Precio: 9x107,56= 968,04 USD.
 
  ## UPS:
 
-    -Back-UPS APC BX700UI 700VA 230 V [ups](https://www.ebay.com/itm/185910112452)
+    -Back-UPS APC BX700UI 700VA 230 V [ups](https://www.ebay.com/itm/185910112452).
     -Precio: 192.35 USD.
   
  ## Ethernet cable:
 
-    -Ethernet cable – 15m – Internet, patch & network cable with break-proof design for maximum UK internet speeds [cable](https://www.amazon.co.uk/KabelDirekt-Connector-High-Speed-Corrosion-Resistant-Black/dp/B018M7BC4K/ref=sr_1_1_sspa)
+    -Ethernet cable – 15m – Internet, patch & network cable with break-proof design for maximum UK internet speeds [cable](https://www.amazon.co.uk/KabelDirekt-Connector-High-Speed-Corrosion-Resistant-Black/dp/B018M7BC4K/ref=sr_1_1_sspa).
     -Precio: 10,23 USD.
  
     
