@@ -1,5 +1,5 @@
 # arquitectura
-# Tarea1_arquitectura
+# Tarea1_arquitectura 
 
 ## Integrantes:
 
